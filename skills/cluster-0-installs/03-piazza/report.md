@@ -6,7 +6,11 @@ Author: Ayush Upneja, 2019-09-03
 
 Joined piazza and added a note of my information (name, major, and github username)
 
-Added screenshot of piazza note in the images folder, titled piazza.png.
+Added screenshot of piazza note in the images folder, titled piazza.png. It is also shown below:
+
+
+![Image](./images/piazza.png)
+
 
 ## Sketches and Photos
 
