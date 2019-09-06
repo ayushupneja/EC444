@@ -13,13 +13,7 @@ I completed all the following tasks:
     ![Image](./images/helloworld.png)
 - I figured out the serial port and successfully made it work
 - I blinked the onboard LED through the esp-idf/examples folder. I had to change the port to #13 in order for the LED to successfully blink.
-- A screenshot of the blinking is under blink.png in the images folder and I also uploaded a video to YouTube depicting the process you can see below.
-
-Screenshot:
-
-![Image](./images/blink.png)
-
-Video:
+- I also uploaded a video to YouTube depicting the LED blinking as you can see below.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gY3-x67SC3s
 " target="_blank"><img src="http://img.youtube.com/vi/gY3-x67SC3s/0.jpg" 
