@@ -14,7 +14,7 @@ The following tasks were completed:
 
 Below is a video of everything working in action!.
 
-<a href="https://www.youtube.com/watch?v=163p40JXTOc" target="_blank"><img src=" http://img.youtube.com/vi/163p40JXTOc.jpg"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=163p40JXTOc" target="_blank"><img src="http://img.youtube.com/vi/163p40JXTOc/0.jpg"
 /></a>
 
 
