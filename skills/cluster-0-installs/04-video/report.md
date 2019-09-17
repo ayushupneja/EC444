@@ -6,8 +6,8 @@ Author: Ayush Upneja, 2019-09-05
 
 Below is my video for the 04-Video Skill completion. I have chosen YouTube as my platform. 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Xn9xlmdU5G0
-" target="_blank"><img src="http://img.youtube.com/vi/Xn9xlmdU5G0/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=khVTU6F_hHA
+" target="_blank"><img src="http://img.youtube.com/vi/khVTU6F_hHA/0.jpg" 
 /></a>
 
 
