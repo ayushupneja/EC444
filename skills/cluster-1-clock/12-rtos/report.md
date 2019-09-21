@@ -1,6 +1,6 @@
 #  RTOS Hardware Interrupt Skill 12
 
-Author: FirstName LastName, 2019-09-20
+Author: Ayush Upneja, 2019-09-20
 
 ## Summary
 
