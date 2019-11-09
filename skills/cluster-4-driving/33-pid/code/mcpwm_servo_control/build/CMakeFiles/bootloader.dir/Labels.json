@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/kylemartin/Documents/senioryear/fall/EC444/Martin-Kyle/skills/cluster-4-driving/33-pid/code/pid/code/mcpwm_servo_control/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/Users/kylemartin/Documents/senioryear/fall/EC444/Martin-Kyle/skills/cluster-4-driving/33-pid/code/pid/code/mcpwm_servo_control/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/Users/kylemartin/Documents/senioryear/fall/EC444/Martin-Kyle/skills/cluster-4-driving/33-pid/code/pid/code/mcpwm_servo_control/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/Users/kylemartin/Documents/senioryear/fall/EC444/Martin-Kyle/skills/cluster-4-driving/33-pid/code/pid/code/mcpwm_servo_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/Users/kylemartin/Documents/senioryear/fall/EC444/Martin-Kyle/skills/cluster-4-driving/33-pid/code/pid/code/mcpwm_servo_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/Users/kylemartin/Documents/senioryear/fall/EC444/Martin-Kyle/skills/cluster-4-driving/33-pid/code/pid/code/mcpwm_servo_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/Users/kylemartin/Documents/senioryear/fall/EC444/Martin-Kyle/skills/cluster-4-driving/33-pid/code/pid/code/mcpwm_servo_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "/Users/kylemartin/Documents/senioryear/fall/EC444/Martin-Kyle/skills/cluster-4-driving/33-pid/code/pid/code/mcpwm_servo_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/Users/kylemartin/Documents/senioryear/fall/EC444/Martin-Kyle/skills/cluster-4-driving/33-pid/code/pid/code/mcpwm_servo_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/Users/kylemartin/Documents/senioryear/fall/EC444/Martin-Kyle/skills/cluster-4-driving/33-pid/code/pid/code/mcpwm_servo_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
