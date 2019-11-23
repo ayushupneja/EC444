@@ -1,8 +1,12 @@
-#  Skill Name
+#  State Model
 
-Author: FirstName LastName, YYYY-MM-DD
+Author: Ayush Upneja, 2019-11-22
 
 ## Summary
+
+Below is my state model for our quest application.
+
+![StateModel](images/state.jpg)
 
 
 ## Sketches and Photos
